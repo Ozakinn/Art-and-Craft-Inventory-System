@@ -1,0 +1,5 @@
+https://python-forum.io/Thread-Login-System
+https://pynative.com/python-check-user-input-is-number-or-string/
+https://github.com/sepandhaghighi/art
+https://statisticsglobe.com/python-strip-remove-newline-from-string
+https://stackoverflow.com/questions/44166748/remove-the-last-empty-line-from-each-text-file

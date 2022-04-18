@@ -1,0 +1,100 @@
+Color pencil, 54, 300.00
+Graphite pencil, 21, 35.00
+Solid graphite pencil, 18, 50.00
+Carbon pencil, 32, 10.00
+Watercolor pencil, 44, 60.00
+Plastic pencil, 58, 20.00
+Erasable color pencil, 22, 389.00
+Charcoal pencil, 125, 49.00
+Mechanical pencil, 24, 175.00
+Grease pencil, 38, 89.00
+Calligraphy pen, 52, 250.00
+Marking pen, 65, 50.00
+Colored marking pen, 85, 60.00
+Colored pen, 40, 89.00
+Ballpoint, 87, 20.00
+Gel pen, 62, 50.00
+Rollerball pen, 89, 50.00
+Stylus pen, 29, 50.00
+Watercolor pen, 21, 109.00
+Acrylic wash brush, 65, 49.00
+Angled brush, 115, 46.00
+Flat brush, 101, 46.00
+Fan brush, 134, 45.00
+Round brush, 66, 40.00
+Liner brush, 25, 35.00
+Palette knives, 72, 50.00
+Acrylic paint, 89, 102.00
+Oil pastel, 95, 161.00
+Crayon, 106, 50.00
+Oil paint, 98, 105.00
+Poster color, 82, 213.00
+Water color, 91, 95.00
+Spray paint, 21, 150.00
+Fabric paint, 36, 50.00
+Cutter, 56, 75.00
+Cutting mat, 23, 165.00
+Scissor, 59, 100.00
+Colored bond, 46, 215.00
+Bond paper, 43, 195.00
+Sketch pad, 49, 50.00
+Vellum board, 34, 17.00
+Calligraphy pad, 23, 89.00
+Card stock, 56, 39.00
+Construction paper, 19, 10.00
+Inkjet paper, 54, 50.00
+Sticker paper, 51, 89.00
+Oslo paper, 49, 24.00
+Water color paper, 20, 200.00
+Journal notebook, 48, 300.00
+Sticky notes, 59, 50.00
+Cartolina, 58, 15.00
+Art paper, 63, 24.00
+Craft paper, 44, 22.00
+Ruller, 61, 39.00
+Protractor, 31, 18.00
+Compass, 39, 75.00
+Seamstress tape, 32, 20.00
+Architects scale, 49, 150.00
+Tape measure, 27, 25.00
+Set square, 32, 187.00
+Yard stick, 26, 89.00
+Wooden glue, 45,  50.00
+Styro foam glue, 30, 45.00
+Hot-melt adhesive, 66, 5.00
+Epoxy, 38, 48.00 
+Glue stick, 65, 35.00
+Fabric adhesive, 30, 50.00
+Cyanoacrylate adhesive(Super glue), 31, 20.00
+Polyurethane, 55, 39.00
+Paper glue, 49, 12.00
+Paste, 23, 15.00
+Scotch tape, 36, 15.00
+Double sided tape, 53, 20.00
+Packaging tape, 45, 30.00
+Masking tape, 37, 24.00
+Foam tape, 33, 26.00
+Washi tape, 43, 50.00
+Sewing box, 13, 89.00
+Sewing scissor, 32, 30.00
+Needles, 54, 20.00
+Pins, 31, 20.00
+Pincushions, 12, 39.00
+Iron & water sprayer, 22, 59.00
+Timble, 23, 5.00
+Threader, 15, 5.00
+Threads, 48, 35.00
+Fabric marker, 65, 24.00
+Pattern weights, 11, 40.00
+Seams ripper, 22, 25.00
+Frixion pen, 36, 50.00
+Tracing wheel, 13, 50.00
+Yarn, 56, 12.00
+Cross stitch fabric, 34, 69.00
+Aida fabric, 19, 39.00
+Stickers, 39, 50.00
+withered flowers, 54, 30.00
+Ribbons, 39, 100.00
+Glitters, 43, 20.00
+Feathers, 65, 20.00
+Fuzzy wires, 25, 30.00
