@@ -7,6 +7,8 @@ Art and Craft Inventory System
 </h1>
 <p align="center">
 A basic CRUD Inventory System written in Python. The system allows the user to Login, Create Account, View Inventory, Logout, Add Item, Delete Item, Modify Item, and Exit.
+<br>
+The system stores and updates the database using text file.
 </p>
 
 ## Requirements / Instructions
