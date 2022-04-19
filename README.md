@@ -18,10 +18,10 @@ The system stores and updates the database using text file.
 
 •	Change all the filepath that you can see in the python file. Refer to current path and folder exists and change it on your own.
 
-•	This system will be maintained but will not update for new feature and bugs. If you want to update/fix a bug, ensure that you already fixed and then post an issue with the given fix you made.
+•	This system will be maintained but will not update for new feature. If you want to update/fix a bug, ensure that you already fixed and then post an issue with the given fix you made.
 
 ## Community
-**This application will no longer update for new feature. But it will be maintained.** 
+**This app will no longer receive updates for new features (unless I have time). However, it will be maintained.** 
 
 Please start a GitHub Issue if you have a problem.
 
