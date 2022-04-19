@@ -20,6 +20,17 @@ The system stores and updates the database using text file.
 
 •	This system will be maintained but will not update for new feature and bugs. If you want to update/fix a bug, ensure that you already fixed and then post an issue with the given fix you made.
 
+## Community
+**This application will no longer update for new feature. But it will be maintained.** 
+
+Please start a GitHub Issue if you have a problem.
+
+If you'd want to contribute to this project, please leave a star 🌟 and share it with your friends! 😎
+
+I would appreciate it if you could offer me a cup of coffee. ☕💖
+
+<a href="https://www.buymeacoffee.com/Ozaki" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## System UI
 
 •	Login
