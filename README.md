@@ -42,3 +42,11 @@ The system stores and updates the database using text file.
 
 ![](/Resources/modifyitem.png)
 
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
